@@ -8,3 +8,4 @@ The Rust Programming Language Book
 - Build and run a project in one step using cargo run.
 - Build a project without producing a binary to check for errors using cargo check.
 - cargo build --release to compile it with optimizations. This command will create an executable in target/release instead of target/debug. The optimizations make your Rust code run faster, but turning them on lengthens the time it takes for your program to compile.
+- Crates.io is where people in the Rust ecosystem post their open source Rust projects for others to use.
